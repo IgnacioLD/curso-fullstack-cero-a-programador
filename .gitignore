@@ -1,0 +1,21 @@
+# Archivos markdown de documentación general
+00-Resumen-Ejecutivo.md
+Currículum-Completo.md
+INDEX.md
+Kit-Hardware-ESP32.md
+LEEME-PRIMERO.md
+Recursos-por-Fase.md
+Tracker-Progreso-Template.md
+Tu mayor ventaja es que empezaste a programar en 2025.md
+
+# Módulos 2-7 (no incluir por ahora)
+Modulo-02-Web-Fundamentals/
+Modulo-03-Hardware-IoT/
+Modulo-04-Full-Stack/
+Modulo-05-Mobile/
+Modulo-06-Profesionalizacion/
+Modulo-07-Bonus-IA/
+
+# Directorios de recursos y estudiantes
+_Recursos-Generales/
+_Estudiantes/

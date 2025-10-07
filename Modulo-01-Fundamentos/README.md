@@ -4,16 +4,16 @@
 **Nivel**: Principiante absoluto
 **Prerequisitos**: Ninguno (solo saber usar un ordenador)
 
-## 🎯 Objetivos del Módulo
+## Objetivos del Módulo
 
 Al finalizar este módulo, serás capaz de:
-- ✅ Entender cómo funciona un ordenador a nivel básico
-- ✅ Escribir programas simples en C y Python
-- ✅ Aplicar pensamiento computacional para resolver problemas
-- ✅ Usar Git y GitHub para control de versiones
-- ✅ Comprender la relación entre hardware y software
+- Entender cómo funciona un ordenador a nivel básico
+- Escribir programas simples en C y Python
+- Aplicar pensamiento computacional para resolver problemas
+- Usar Git y GitHub para control de versiones
+- Comprender la relación entre hardware y software
 
-## 📚 Contenido
+## Contenido
 
 ### Semana 1: Scratch
 - Introducción al pensamiento computacional
@@ -55,7 +55,7 @@ Al finalizar este módulo, serás capaz de:
 - Ventajas Python
 - **Proyectos**: Reescribir programas C en Python
 
-## 📁 Estructura de Carpetas
+## Estructura de Carpetas
 
 ```
 Modulo-01-Fundamentos/
@@ -69,7 +69,7 @@ Modulo-01-Fundamentos/
 └── Evaluaciones/        # Tests, quizzes
 ```
 
-## 🛠️ Herramientas Necesarias
+## Herramientas Necesarias
 
 - [ ] VS Code instalado
 - [ ] Compilador C (GCC)
@@ -77,14 +77,14 @@ Modulo-01-Fundamentos/
 - [ ] Git instalado
 - [ ] Cuenta GitHub creada
 
-## 📖 Recursos Principales
+## Recursos Principales
 
 - **CS50x**: https://cs50.harvard.edu/x/ (Semanas 0-2)
 - **Code Your Future SDC**: https://sdc.codeyourfuture.io/
 - **Learn-C.org**: https://www.learn-c.org/
 - **Git Handbook**: https://guides.github.com/
 
-## ✅ Criterios de Completación
+## Criterios de Completación
 
 Para considerar el módulo completo:
 - [ ] Todas las semanas completadas
@@ -92,7 +92,7 @@ Para considerar el módulo completo:
 - [ ] Evaluación final aprobada (70%+)
 - [ ] Git workflow básico dominado
 
-## 🎓 Evaluación
+## Evaluación
 
 **Evaluación continua**: 40%
 - Ejercicios semanales
@@ -104,7 +104,7 @@ Para considerar el módulo completo:
 **Evaluación final**: 20%
 - Test teórico/práctico
 
-## 📈 Próximo Módulo
+## Próximo Módulo
 
 **Módulo 2: Web Development Fundamentals**
 - HTML, CSS, JavaScript
